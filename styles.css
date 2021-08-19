@@ -38,3 +38,5 @@ body{
     font-family: fantasy;
     
 }
+.origami:hover{transform: scale(1.2)}
+a:visited{color: #ffffff;}
